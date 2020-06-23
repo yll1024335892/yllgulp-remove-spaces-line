@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "yll1024335892@163.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "through2": "^2.0.1"
+  },
+  "deprecated": false,
+  "description": "移除空白行",
+  "devDependencies": {},
+  "keywords": [
+    "gulp",
+    "gulpplugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "yllgulp-remove-spaces-line",
+  "version": "0.0.2"
+}
